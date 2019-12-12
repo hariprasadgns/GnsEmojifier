@@ -1,1 +1,1 @@
-Execute web.py file to run the project
+Run web_app.py file to to deploy flask web app
